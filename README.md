@@ -1,4 +1,4 @@
-# project_inssaRecipe
+# Project 인싸레시피
 KOSMO TEAM2 1st project (오유현, 김보민, 백인준)
 
 레시피를 검색해주는 PC앱입니다.
