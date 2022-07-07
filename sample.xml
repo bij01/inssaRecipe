@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>D:\BIJ\JAVA\test\recipe\product\ui.jar</jar>
+  <outfile>D:\BIJ\JAVA\test\recipe\recipe.exe</outfile>
+  <errTitle>JRE 6 Version more needed</errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>D:\BIJ\JAVA\test\recipe\dist\recipeIcon.ico</icon>
+  <classPath>
+    <mainClass>com.bbo.recipe.Main</mainClass>
+  </classPath>
+  <jre>
+    <path></path>
+    <bundledJre64Bit>false</bundledJre64Bit>
+    <bundledJreAsFallback>false</bundledJreAsFallback>
+    <minVersion>1.5.0</minVersion>
+    <maxVersion></maxVersion>
+    <jdkPreference>preferJre</jdkPreference>
+    <runtimeBits>64/32</runtimeBits>
+  </jre>
+  <versionInfo>
+    <fileVersion>0.0.0.1</fileVersion>
+    <txtFileVersion>ver 0.1</txtFileVersion>
+    <fileDescription>recipe</fileDescription>
+    <copyright>bbo</copyright>
+    <productVersion>0.0.0.1</productVersion>
+    <txtProductVersion>ver 0.1</txtProductVersion>
+    <productName>recipe</productName>
+    <companyName></companyName>
+    <internalName>recipe</internalName>
+    <originalFilename>recipe.exe</originalFilename>
+    <trademarks></trademarks>
+    <language>KOREAN</language>
+  </versionInfo>
+</launch4jConfig>

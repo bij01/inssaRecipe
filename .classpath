@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="classes"/>
+	<classpathentry kind="lib" path="library/flatlaf-2.3.jar"/>
+	<classpathentry kind="lib" path="library/ojdbc8.jar"/>
+	<classpathentry kind="output" path="classes"/>
+</classpath>

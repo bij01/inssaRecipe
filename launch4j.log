@@ -1,0 +1,464 @@
+
+
+Version:	3.12
+CmdLine:	D:\BIJ\JAVA\test\recipe\recipe.exe --l4j-debug
+WOW64:		yes
+Working dir:	D:\BIJ\JAVA\test\recipe\.
+Java min ver:	1.005.000
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_333\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_333
+Check launcher:	C:\Program Files\Java\jre1.8.0_333\bin\javaw.exe (OK)
+Match:		1.008.000_333
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_221
+Ignore:		1.008.000_221
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.008.000_333 (64-bit)
+Main class:	com.bbo.recipe.Main
+Info:		Classpath not defined.
+Launcher:	C:\Program Files\Java\jre1.8.0_333\bin\javaw.exe
+Launcher args:	-classpath "D:\BIJ\JAVA\test\recipe\recipe.exe" com.bbo.recipe.Main
+Args length:	67/32768 chars
+Exit code:	0
+
+
+Version:	3.12
+CmdLine:	D:\BIJ\JAVA\test\recipe\recipe.exe --l4j-debug
+WOW64:		yes
+Working dir:	D:\BIJ\JAVA\test\recipe\.
+Java min ver:	1.005.000
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_333\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_333
+Check launcher:	C:\Program Files\Java\jre1.8.0_333\bin\javaw.exe (OK)
+Match:		1.008.000_333
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_221
+Ignore:		1.008.000_221
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.008.000_333 (64-bit)
+Main class:	com.bbo.recipe.Main
+Info:		Classpath not defined.
+Launcher:	C:\Program Files\Java\jre1.8.0_333\bin\javaw.exe
+Launcher args:	-classpath "D:\BIJ\JAVA\test\recipe\recipe.exe" com.bbo.recipe.Main
+Args length:	67/32768 chars
+Exit code:	0
+
+
+Version:	3.12
+CmdLine:	D:\BIJ\JAVA\test\recipe\recipe.exe --l4j-debug
+WOW64:		yes
+Working dir:	D:\BIJ\JAVA\test\recipe\.
+Java min ver:	1.005.000
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_333\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_333
+Check launcher:	C:\Program Files\Java\jre1.8.0_333\bin\javaw.exe (OK)
+Match:		1.008.000_333
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_221
+Ignore:		1.008.000_221
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.008.000_333 (64-bit)
+Main class:	com.bbo.recipe.Main
+Info:		Classpath not defined.
+Launcher:	C:\Program Files\Java\jre1.8.0_333\bin\javaw.exe
+Launcher args:	-classpath "D:\BIJ\JAVA\test\recipe\recipe.exe" com.bbo.recipe.Main
+Args length:	67/32768 chars
+Exit code:	0
+
+
+Version:	3.12
+CmdLine:	D:\BIJ\JAVA\test\recipe\recipe.exe --l4j-debug
+WOW64:		yes
+Working dir:	D:\BIJ\JAVA\test\recipe\.
+Java min ver:	1.005.000
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_333\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_333
+Check launcher:	C:\Program Files\Java\jre1.8.0_333\bin\javaw.exe (OK)
+Match:		1.008.000_333
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_221
+Ignore:		1.008.000_221
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.008.000_333 (64-bit)
+Main class:	com.bbo.recipe.Main
+Info:		Classpath not defined.
+Launcher:	C:\Program Files\Java\jre1.8.0_333\bin\javaw.exe
+Launcher args:	-classpath "D:\BIJ\JAVA\test\recipe\recipe.exe" com.bbo.recipe.Main
+Args length:	67/32768 chars
+Exit code:	0
+
+
+Version:	3.12
+CmdLine:	D:\BIJ\JAVA\test\recipe\recipe1.exe --l4j-debug
+WOW64:		yes
+Working dir:	D:\BIJ\JAVA\test\recipe\.
+Java min ver:	1.005.000
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_333\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_333
+Check launcher:	C:\Program Files\Java\jre1.8.0_333\bin\javaw.exe (OK)
+Match:		1.008.000_333
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_221
+Ignore:		1.008.000_221
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.008.000_333 (64-bit)
+Main class:	com.bbo.recipe.Main
+Info:		Classpath not defined.
+Launcher:	C:\Program Files\Java\jre1.8.0_333\bin\javaw.exe
+Launcher args:	-classpath "D:\BIJ\JAVA\test\recipe\recipe1.exe" com.bbo.recipe.Main
+Args length:	68/32768 chars
+Exit code:	0
+
+
+Version:	3.12
+CmdLine:	D:\BIJ\JAVA\test\recipe\recipe3.exe --l4j-debug
+WOW64:		yes
+Working dir:	D:\BIJ\JAVA\test\recipe\.
+Java min ver:	1.005.000
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_333\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_333
+Check launcher:	C:\Program Files\Java\jre1.8.0_333\bin\javaw.exe (OK)
+Match:		1.008.000_333
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_221
+Ignore:		1.008.000_221
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.008.000_333 (64-bit)
+Main class:	com.bbo.recipe.Main
+Info:		Classpath not defined.
+Launcher:	C:\Program Files\Java\jre1.8.0_333\bin\javaw.exe
+Launcher args:	-classpath "D:\BIJ\JAVA\test\recipe\recipe3.exe" com.bbo.recipe.Main
+Args length:	68/32768 chars
+Exit code:	0
+
+
+Version:	3.12
+CmdLine:	D:\BIJ\JAVA\test\recipe\recipe3.exe --l4j-debug
+WOW64:		yes
+Working dir:	D:\BIJ\JAVA\test\recipe\.
+Java min ver:	1.005.000
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_333\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_333
+Check launcher:	C:\Program Files\Java\jre1.8.0_333\bin\javaw.exe (OK)
+Match:		1.008.000_333
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_221
+Ignore:		1.008.000_221
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.008.000_333 (64-bit)
+Main class:	com.bbo.recipe.Main
+Info:		Classpath not defined.
+Launcher:	C:\Program Files\Java\jre1.8.0_333\bin\javaw.exe
+Launcher args:	-classpath "D:\BIJ\JAVA\test\recipe\recipe3.exe" com.bbo.recipe.Main
+Args length:	68/32768 chars
+Exit code:	0
+
+
+Version:	3.12
+CmdLine:	D:\BIJ\JAVA\test\recipe\recipe3.exe --l4j-debug
+WOW64:		yes
+Working dir:	D:\BIJ\JAVA\test\recipe\.
+Java min ver:	1.005.000
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_333\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_333
+Check launcher:	C:\Program Files\Java\jre1.8.0_333\bin\javaw.exe (OK)
+Match:		1.008.000_333
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_221
+Ignore:		1.008.000_221
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.008.000_333 (64-bit)
+Main class:	com.bbo.recipe.Main
+Info:		Classpath not defined.
+Launcher:	C:\Program Files\Java\jre1.8.0_333\bin\javaw.exe
+Launcher args:	-classpath "D:\BIJ\JAVA\test\recipe\recipe3.exe" com.bbo.recipe.Main
+Args length:	68/32768 chars
+Exit code:	0
+
+
+Version:	3.12
+CmdLine:	D:\BIJ\JAVA\test\recipe\recipe3.exe --l4j-debug
+WOW64:		yes
+Working dir:	D:\BIJ\JAVA\test\recipe\.
+Java min ver:	1.005.000
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_333\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_333
+Check launcher:	C:\Program Files\Java\jre1.8.0_333\bin\javaw.exe (OK)
+Match:		1.008.000_333
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_221
+Ignore:		1.008.000_221
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.008.000_333 (64-bit)
+Main class:	com.bbo.recipe.Main
+Info:		Classpath not defined.
+Launcher:	C:\Program Files\Java\jre1.8.0_333\bin\javaw.exe
+Launcher args:	-classpath "D:\BIJ\JAVA\test\recipe\recipe3.exe" com.bbo.recipe.Main
+Args length:	68/32768 chars
+Exit code:	0
+
+
+Version:	3.12
+CmdLine:	D:\BIJ\JAVA\test\recipe\recipe3.exe --l4j-debug
+WOW64:		yes
+Working dir:	D:\BIJ\JAVA\test\recipe\.
+Java min ver:	1.005.000
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_333\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_333
+Check launcher:	C:\Program Files\Java\jre1.8.0_333\bin\javaw.exe (OK)
+Match:		1.008.000_333
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_221
+Ignore:		1.008.000_221
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.008.000_333 (64-bit)
+Main class:	com.bbo.recipe.Main
+Info:		Classpath not defined.
+Launcher:	C:\Program Files\Java\jre1.8.0_333\bin\javaw.exe
+Launcher args:	-classpath "D:\BIJ\JAVA\test\recipe\recipe3.exe" com.bbo.recipe.Main
+Args length:	68/32768 chars
+Exit code:	0
+
+
+Version:	3.12
+CmdLine:	D:\BIJ\JAVA\test\recipe\recipe3.exe --l4j-debug
+WOW64:		yes
+Working dir:	D:\BIJ\JAVA\test\recipe\.
+Java min ver:	1.005.000
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_333\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_333
+Check launcher:	C:\Program Files\Java\jre1.8.0_333\bin\javaw.exe (OK)
+Match:		1.008.000_333
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_221
+Ignore:		1.008.000_221
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.008.000_333 (64-bit)
+Main class:	com.bbo.recipe.Main
+Info:		Classpath not defined.
+Launcher:	C:\Program Files\Java\jre1.8.0_333\bin\javaw.exe
+Launcher args:	-classpath "D:\BIJ\JAVA\test\recipe\recipe3.exe" com.bbo.recipe.Main
+Args length:	68/32768 chars
+Exit code:	0
+
+
+Version:	3.12
+CmdLine:	D:\BIJ\JAVA\test\recipe\recipe3.exe --l4j-debug
+WOW64:		yes
+Working dir:	D:\BIJ\JAVA\test\recipe\.
+Java min ver:	1.005.000
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_333\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_333
+Check launcher:	C:\Program Files\Java\jre1.8.0_333\bin\javaw.exe (OK)
+Match:		1.008.000_333
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_221
+Ignore:		1.008.000_221
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.008.000_333 (64-bit)
+Main class:	com.bbo.recipe.Main
+Info:		Classpath not defined.
+Launcher:	C:\Program Files\Java\jre1.8.0_333\bin\javaw.exe
+Launcher args:	-classpath "D:\BIJ\JAVA\test\recipe\recipe3.exe" com.bbo.recipe.Main
+Args length:	68/32768 chars
+Exit code:	0
+
+
+Version:	3.12
+CmdLine:	D:\BIJ\JAVA\test\recipe\recipe3.exe --l4j-debug
+WOW64:		yes
+Working dir:	D:\BIJ\JAVA\test\recipe\.
+Java min ver:	1.005.000
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_333\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_333
+Check launcher:	C:\Program Files\Java\jre1.8.0_333\bin\javaw.exe (OK)
+Match:		1.008.000_333
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_221
+Ignore:		1.008.000_221
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.008.000_333 (64-bit)
+Main class:	com.bbo.recipe.Main
+Info:		Classpath not defined.
+Launcher:	C:\Program Files\Java\jre1.8.0_333\bin\javaw.exe
+Launcher args:	-classpath "D:\BIJ\JAVA\test\recipe\recipe3.exe" com.bbo.recipe.Main
+Args length:	68/32768 chars
+Exit code:	0
+
+
+Version:	3.12
+CmdLine:	D:\BIJ\JAVA\test\recipe\recipe3.exe --l4j-debug
+WOW64:		yes
+Working dir:	D:\BIJ\JAVA\test\recipe\.
+Java min ver:	1.005.000
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_333\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_333
+Check launcher:	C:\Program Files\Java\jre1.8.0_333\bin\javaw.exe (OK)
+Match:		1.008.000_333
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_221
+Ignore:		1.008.000_221
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.008.000_333 (64-bit)
+Main class:	com.bbo.recipe.Main
+Info:		Classpath not defined.
+Launcher:	C:\Program Files\Java\jre1.8.0_333\bin\javaw.exe
+Launcher args:	-classpath "D:\BIJ\JAVA\test\recipe\recipe3.exe" com.bbo.recipe.Main
+Args length:	68/32768 chars
+Exit code:	0
+
+
+Version:	3.12
+CmdLine:	D:\BIJ\JAVA\test\recipe\recipe3.exe --l4j-debug
+WOW64:		yes
+Working dir:	D:\BIJ\JAVA\test\recipe\.
+Java min ver:	1.005.000
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_333\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_333
+Check launcher:	C:\Program Files\Java\jre1.8.0_333\bin\javaw.exe (OK)
+Match:		1.008.000_333
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_221
+Ignore:		1.008.000_221
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.008.000_333 (64-bit)
+Main class:	com.bbo.recipe.Main
+Info:		Classpath not defined.
+Launcher:	C:\Program Files\Java\jre1.8.0_333\bin\javaw.exe
+Launcher args:	-classpath "D:\BIJ\JAVA\test\recipe\recipe3.exe" com.bbo.recipe.Main
+Args length:	68/32768 chars
+Exit code:	0
+
+
+Version:	3.12
+CmdLine:	D:\BIJ\JAVA\test\recipe\recipe.exe --l4j-debug
+WOW64:		yes
+Working dir:	D:\BIJ\JAVA\test\recipe\.
+Java min ver:	1.005.000
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_333\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_333
+Check launcher:	C:\Program Files\Java\jre1.8.0_333\bin\javaw.exe (OK)
+Match:		1.008.000_333
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_221
+Ignore:		1.008.000_221
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.008.000_333 (64-bit)
+Main class:	com.bbo.recipe.Main
+Info:		Classpath not defined.
+Launcher:	C:\Program Files\Java\jre1.8.0_333\bin\javaw.exe
+Launcher args:	-classpath "D:\BIJ\JAVA\test\recipe\recipe.exe" com.bbo.recipe.Main
+Args length:	67/32768 chars
+Exit code:	0
