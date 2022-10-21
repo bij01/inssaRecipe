@@ -1,4 +1,4 @@
-# Project 인싸레시피
+# 인싸레시피
 KOSMO TEAM2 1st project (오유현, 김보민, 백인준)
 
 레시피를 검색해주는 PC앱입니다.
@@ -12,3 +12,5 @@ KOSMO TEAM2 1st project (오유현, 김보민, 백인준)
 (메인 메뉴 화면 전환 시 쓰레드를 활용하여 화면이 위에서 아래로 내려오는 이미지 연출)
 5) 레시피 검색시 JFrame사이즈 변경
 6) 메인화면 전환 시 랜덤검색 메뉴는 쓰레드로 계속해서 글자 색상이 랜덤으로 변하는 기능
+
+- 영상링크 https://www.youtube.com/watch?v=m79ijiQu0gk
